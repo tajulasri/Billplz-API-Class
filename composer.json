@@ -1,0 +1,22 @@
+{
+    "name": "tajul/billplz-api-class",
+    "description": "Billplz php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tajul",
+            "email": "mtajulasri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+       "psr-4": {
+            "Wanzul\\": "src/"
+       },
+        "files":[
+            "supports/helpers.php"
+        ]
+    } 
+}
